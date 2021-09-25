@@ -1,4 +1,3 @@
-
 let number= 0
 let count= document.getElementById("num")
 function plus(){
